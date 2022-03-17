@@ -11,7 +11,7 @@ OpenMMD可以称为OpenPose+MikuMikuDance（MMD），是一个基于OpenPose的�
 * Highly recommended: cuDNN
 
 ## 安装与使用
-* 下载 data.zip 和 utils.zip，并解压到项目根目录([百度网盘]())。
+* 下载模型 data.zip 和openpose工具 utils.zip，并解压到项目根目录([百度网盘](https://pan.baidu.com/s/1V4ldr5FuwpWAHgaUv9hhYA)，提取码：1dmt)。
 * pip install -r requirements.txt
 * python launch.py
 
