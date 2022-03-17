@@ -1,0 +1,12 @@
+dlib==19.22.1
+h5py==2.10.0
+imageio==2.9.0
+matplotlib==3.0.0
+numpy==1.16.4 
+opencv_python==4.5.3.56
+Pillow==9.0.0
+PyQt5==5.15.6
+scipy==1.7.3
+six==1.16.0
+skimage==0.0
+tqdm==4.62.3
